@@ -61,7 +61,11 @@ dlldata.c
 *.pidb
 *.svclog
 *.scc
+<<<<<<< HEAD
 *.vs/
+=======
+
+>>>>>>> 95de73a (My firt commit)
 # Chutzpah Test files
 _Chutzpah*
 
@@ -72,6 +76,10 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+<<<<<<< HEAD
+=======
+*.vs/
+>>>>>>> 95de73a (My firt commit)
 
 # Visual Studio profiler
 *.psess
