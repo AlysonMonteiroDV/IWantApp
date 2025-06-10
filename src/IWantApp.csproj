@@ -11,4 +11,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\aliso\OneDrive\Documentos\IWantApp\src\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\aliso\OneDrive\Documentos\IWantApp\src\.editorconfig" />
+  </ItemGroup>
+
 </Project>
